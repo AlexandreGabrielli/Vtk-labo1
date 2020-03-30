@@ -148,5 +148,4 @@ for i in range(0, 9):
     ren1.GetActiveCamera().Azimuth(10)
     print("camera")
 
-
 print("FIN")
